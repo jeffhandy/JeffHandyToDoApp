@@ -1,16 +1,4 @@
 
-### Breakdown of Markdown elements:
-
-- **Headers** (`#` for main headers, `##` for subheaders, etc.): Used to create the title, sections, and subsections.
-- **Bold text** (`**bold**`): Used to highlight important words like SwiftUI, SwiftData, etc.
-- **Lists**:
-  - **Unordered List** (`-` or `*`): For listing features, tasks, or instructions.
-  - **Ordered List** (`1.`, `2.`): For numbered steps, such as instructions or tasks.
-- **Code blocks**: For displaying code (such as the clone command). Use triple backticks (\`\`\`) to define a block of code.
-- **Links**: You can link to other pages or files using `[text](url)`.
-
-### Example Preview:
-
 #### JeffHandyToDoApp
 
 This is a short demo app using **SwiftUI** and **SwiftData** storage.
